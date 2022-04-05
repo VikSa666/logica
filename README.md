@@ -1,2 +1,2 @@
-# logica
-Apunts d'Estructures Algebraiques en TeX
+# Lógica
+Apuntes de Lógica Matemática en `TeX`
